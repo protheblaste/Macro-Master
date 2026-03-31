@@ -1,5 +1,5 @@
-🛠️ Installation & Setup Guide
-Follow these steps to get MacroMaster Ultra running on your PC in less than 5 minutes.
+_🛠️ Installation & Setup Guide_
+*Follow these steps to get MacroMaster Ultra running on your PC in less than 5 minutes.*
 
 1. Install Python 🐍
 MacroMaster is built with Python. If you don't have it:
@@ -45,7 +45,7 @@ DOS
 python main.py
 The MacroMaster Ultra window will now pop up! ⚡
 
-🎮 How to Use (Step-by-Step)
+*🎮 How to Use (Step-by-Step)*
 Select Your Action: Use the first dropdown to pick what you want the macro to do (e.g., Left Click or Scroll Up). 🖱️
 
 Pick a Mode: * Cycle until released: Great for rapid fire while holding a key.
@@ -61,7 +61,7 @@ Dominate: Switch to your game and press your bound key. 🔥
 PRO TIP: If the clicks aren't working inside a specific game, close the CMD window and the app. Right-click your Command Prompt icon and select "Run as Administrator", then try running the script again! 🛡️
 
 
-⚙️ How the Engine Works (v1.9.1)
+*⚙️ How the Engine Works (v1.9.1)*
 The MacroMaster Engine is built with a "Safety-First" architecture. Unlike basic clickers, this software uses a dual-layer activation system to prevent accidental inputs while you are typing or using your PC normally.
 
 🛡️ Layer 1: The Master Arm
